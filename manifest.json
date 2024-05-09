@@ -4,8 +4,8 @@
 	"header": {
 		"name": "Debug Stick",
 		"description": "Java Debug Stick on Minecraft: Bedrock Edition. By §bvytdev§r",
-		"uuid": "21aadfa6-e27c-400c-c596-596021852939",
-		"version": "1.8.0",
+		"uuid": "52caeb38-0369-4b8d-85e1-f8d23f201020",
+		"version": "1.20.40",
 		"min_engine_version": [ 1, 20, 80 ]
 	},
 
@@ -13,7 +13,7 @@
 		{
 			"description": "behaviour",
 			"type": "data",
-			"uuid": "d8a9ff21-7aa3-4b83-73ed-eeb141516e74",
+			"uuid": "3fc76ba5-24be-4389-a13c-441a2a9c348d",
 			"version": [ 1, 0, 0 ]
 		},
 		{
@@ -21,7 +21,7 @@
 			"type": "script",
 			"language": "javascript",
 			"entry": "scripts/index.js",
-			"uuid": "86c7bab4-aed9-4297-5f0c-d5d62bd30be1",
+			"uuid": "954cb156-11a4-427d-bb6e-4e6182bd0b0d",
 			"version": [ 1, 0, 0 ]
 		}
 	],
